@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNsbHlyYXg0bnR6eDgyYzQyZjJrODB1eDhkejl0NXkxMXVsam1vNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3bXU3NG9sMTR4dmpoNHc0ajI1cjQ3Zm40ZWJ2cWlpMTQzaWR2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I92qnc1FjAyPY0xjCg/giphy.gif" width="400"/>
   
   <div id="badges">
     <a href="www.linkedin.com/in/mkgabiana">
@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 I am a student 🎒 at UP Tacloban College 🌻.
 - 📸 I do photography and videography as a hobby.
 - 🎮 I do gaming in my free time.
-- 🖼️ I do designs (prefer front-end over back-end).
+- 🖼️ I do designs/layouts (digital art or front-end).
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mkgabiana-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mkgabiana)
 
 ---
 
