@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3bXU3NG9sMTR4dmpoNHc0ajI1cjQ3Zm40ZWJ2cWlpMTQzaWR2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I92qnc1FjAyPY0xjCg/giphy.gif" width="400"/>
   
   <div id="badges">
-    <a href="www.linkedin.com/in/mkgabiana1">
+    <a href="www.linkedin.com/in/mrgabiana">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/kqyannn/">
@@ -20,7 +20,7 @@ I am a student 🎒 at UP Tacloban College 🌻.
 - 📸 I do photography and videography as a hobby.
 - 🎮 I do gaming in my free time.
 - 🖼️ I do designs/layouts (digital art or front-end).
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mkgabiana1-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mkgabiana1)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mrgabiana-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mkgabiana1)
   
 ---
 
