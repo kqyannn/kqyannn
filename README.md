@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me :
 I am a student 🎒 at UP Tacloban College 🌻.
-- 📸 I do photography and videography as a hobby.
+- 📸 I do photography and videography as a hobby and a freelancer.
 - 🎮 I do gaming in my free time.
 - 🖼️ I do designs/layouts (digital art or front-end).
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mrgabiana-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mkgabiana1)
