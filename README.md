@@ -16,10 +16,10 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a student 🎒 at UP Tacloban College 🌻.
+I am BS in Computer Science Graduate 🌻 from UP Tacloban College.
 - 📸 I do photography and videography as a hobby and a freelancer.
 - 🎮 I do gaming in my free time.
-- 🖼️ I do designs/layouts (digital art or front-end).
+- 🖼️ I do designs/layouts (graphics design and front-end).
 - 💭 I'm versatile and can learn quickly on techy stuff.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mrgabiana-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mkgabiana1)
   
