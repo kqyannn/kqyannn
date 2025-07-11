@@ -43,7 +43,8 @@ I am BS in Computer Science Graduate 🌻 from UP Tacloban College.
 ### 🪟 Frameworks :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" **alt="VueJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" **alt="Streamlit" width="40" height="40"/>
 </div>
 
 ---
@@ -54,7 +55,8 @@ I am BS in Computer Science Graduate 🌻 from UP Tacloban College.
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse"  alt="Eclipse" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="LaTeX" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" **alt="Jupyter Notebook" width="40" height="40"/>
 </div>
 
 ---
