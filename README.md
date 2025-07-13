@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a BS in Computer Science Graduate 🌻 from UP Tacloban College.
+I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 - 📸 I do photography and videography as a hobby and a freelancer.
 - 🎮 Does gaming in his spare time.
 - 🖼️ Can make designs/layouts (graphics design and front-end).
