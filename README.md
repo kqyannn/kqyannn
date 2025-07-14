@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3bXU3NG9sMTR4dmpoNHc0ajI1cjQ3Zm40ZWJ2cWlpMTQzaWR2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I92qnc1FjAyPY0xjCg/giphy.gif" width="400"/>
   
   <div id="badges">
-    <a href="www.linkedin.com/in/mrgabiana">
+    <a href="https://www.linkedin.com/in/mrgabiana/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/kqyannn/">
@@ -21,7 +21,7 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 - 🎮 Does gaming in his spare time.
 - 🖼️ Can make designs/layouts (graphics design and front-end).
 - 💭 Is versatile and can learn quickly on techy stuff.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mrgabiana-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mkgabiana1)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mrgabiana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrgabiana/)
   
 ---
 
