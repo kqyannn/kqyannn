@@ -21,7 +21,7 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 - 🎮 Does gaming in his spare time.
 - 🖼️ Can make designs/layouts (graphics design and front-end).
 - 💭 Is versatile and can learn quickly on techy stuff.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mrgabiana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrgabiana/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrgabiana/)
   
 ---
 
