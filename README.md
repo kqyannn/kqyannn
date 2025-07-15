@@ -65,5 +65,19 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 ---
 
 ### 📈 My Stats :
+
+<div align="center">
+  
+<table><tr><td valign="top" width="25%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</td><td valign="top" width="25%">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true)
+
+</td></tr></table>
+</div>
+
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kqyannn&theme=dark&background=000000)](https://git.io/streak-stats) |
 | ------------- | ------------- | ------------- |
