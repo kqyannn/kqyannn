@@ -65,12 +65,12 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 ---
 
 ### 📈 My Stats :
-<table align="center" border="0">
+<table align="center" style="border:none;">
   <tr>
-    <td valign="middle">
+    <td style="vertical-align: middle; border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&layout=compact&theme=tokyonight" />
     </td>
-    <td valign="middle">
+    <td style="vertical-align: middle; border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true" />
     </td>
   </tr>
