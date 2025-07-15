@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3bXU3NG9sMTR4dmpoNHc0ajI1cjQ3Zm40ZWJ2cWlpMTQzaWR2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I92qnc1FjAyPY0xjCg/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z5dGpxOW0zaTI2dmRmaDgyaGJxc20xY214cDV6MWN4MXhjMHc5dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/Cg9oeBXqFayCq26ggf/giphy.gif" width="400"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/mrgabiana/">
