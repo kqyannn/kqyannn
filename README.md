@@ -72,11 +72,11 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</td><td valign="center" width="25%">
+</td><td valign="center">
 
 ![Kian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true)
 
-</td><td valign="center" width="25%">
+</td><td valign="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kqyannn&theme=dark&background=000000)](https://git.io/streak-stats)
 
