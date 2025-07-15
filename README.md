@@ -80,7 +80,7 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 
 </td><td valign="center" width="26%">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kqyannn&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kqyannn&theme=tokyonight)](https://git.io/streak-stats)
 
 </td></tr>
 
