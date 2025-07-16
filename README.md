@@ -1,11 +1,11 @@
-<div id="header" align="center">
+<div align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hello+World!;This+is+Kian+%F0%9F%94%A5)](https://git.io/typing-svg)
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXcyN21oNWM0NW11ZjNiMTkzYTNjcjAxdWdlZ24xcWh5NXNqcm1haCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" width="400"/> -->
   
   <div>
     <a href="https://www.linkedin.com/in/mrgabiana/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PCFET0NUWVBFIHN2ZyAgUFVCTElDICctLy9XM0MvL0RURCBTVkcgMS4xLy9FTicgICdodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQnPjxzdmcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTYuNjkzIDU2LjY5MyIgaGVpZ2h0PSI1Ni42OTNweCIgaWQ9IkxheWVyXzEiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDU2LjY5MyA1Ni42OTMiIHdpZHRoPSI1Ni42OTNweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGc+PHBhdGggZD0iTTMwLjA3MSwyNy4xMDF2LTAuMDc3Yy0wLjAxNiwwLjAyNi0wLjAzMywwLjA1Mi0wLjA1LDAuMDc3SDMwLjA3MXoiLz48cGF0aCBkPSJNNDkuMjY1LDQuNjY3SDcuMTQ1Yy0yLjAxNiwwLTMuNjUxLDEuNTk2LTMuNjUxLDMuNTYzdjQyLjYxM2MwLDEuOTY2LDEuNjM1LDMuNTYyLDMuNjUxLDMuNTYyaDQyLjEyICAgYzIuMDE5LDAsMy42NTQtMS41OTcsMy42NTQtMy41NjJWOC4yM0M1Mi45MTksNi4yNjIsNTEuMjgzLDQuNjY3LDQ5LjI2NSw0LjY2N3ogTTE4LjQ3NSw0Ni4zMDRoLTcuNDY1VjIzLjg0NWg3LjQ2NVY0Ni4zMDR6ICAgIE0xNC43NDMsMjAuNzc3aC0wLjA1Yy0yLjUwNCwwLTQuMTI0LTEuNzI1LTQuMTI0LTMuODhjMC0yLjIwMywxLjY3LTMuODgsNC4yMjMtMy44OGMyLjU1NCwwLDQuMTI1LDEuNjc3LDQuMTc1LDMuODggICBDMTguOTY3LDE5LjA1MiwxNy4zNDUsMjAuNzc3LDE0Ljc0MywyMC43Nzd6IE00NS4zOTQsNDYuMzA0aC03LjQ2NVYzNC4yODZjMC0zLjAxOC0xLjA4LTUuMDc4LTMuNzgxLTUuMDc4ICAgYy0yLjA2MiwwLTMuMjksMS4zODktMy44MzEsMi43MzFjLTAuMTk3LDAuNDc5LTAuMjQ1LDEuMTQ5LTAuMjQ1LDEuODIxdjEyLjU0M2gtNy40NjVjMCwwLDAuMDk4LTIwLjM1NCwwLTIyLjQ1OWg3LjQ2NXYzLjE3OSAgIGMwLjk5Mi0xLjUzLDIuNzY2LTMuNzA5LDYuNzI5LTMuNzA5YzQuOTExLDAsOC41OTQsMy4yMTEsOC41OTQsMTAuMTFWNDYuMzA0eiIvPjwvZz48L3N2Zz4=&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/kqyannn/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
