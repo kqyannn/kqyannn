@@ -41,8 +41,6 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
 </div>
 
----
-
 ### 🪟 Frameworks :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" **alt="VueJS" width="40" height="40"/>&nbsp;
@@ -51,8 +49,6 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" **alt="Streamlit" width="40" height="40"/>
 </div>
-
----
 
 ### ⚒️ Tools Used :
 <div>
