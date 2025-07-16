@@ -68,15 +68,15 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
   
 <table><tr><td valign="center" width="19%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![kqyannn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 </td><td valign="center" width="25%">
 
-![Kian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true)
+![kqyannn's Stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 </td><td valign="center" width="26%">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kqyannn&theme=tokyonight)](https://git.io/streak-stats)
+![kqyannn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kqyannn&theme=tokyonight&hide_border=true)
 
 </td></tr>
 
