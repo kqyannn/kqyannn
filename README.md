@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hello+World!;This+is+Kian+%F0%9F%94%A5)](https://git.io/typing-svg)
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXcyN21oNWM0NW11ZjNiMTkzYTNjcjAxdWdlZ24xcWh5NXNqcm1haCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" width="400"/> -->
   
-  <div id="badges">
+  <div>
     <a href="https://www.linkedin.com/in/mrgabiana/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
