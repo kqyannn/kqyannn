@@ -12,7 +12,7 @@
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=kqyannn&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=kqyannn&style=flat&color=orange&label=Profile+visits" alt="Profile Views"/>
 </div>
 
 ---
