@@ -68,17 +68,20 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 
 <div align="center">
   <table>
-    <tr>
-      <td valign="center" width="19%">
-        ![kqyannn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-      </td>
-      <td valign="center" width="25%">
-        ![kqyannn's Stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-      </td>
-      <td valign="center" width="26%">
-        ![kqyannn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kqyannn&theme=tokyonight&hide_border=true)
-      </td>
-    </tr>
+    
+  <tr><td valign="center" width="19%">
+  
+  ![kqyannn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+  
+  </td><td valign="center" width="25%">
+  
+  ![kqyannn's Stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  
+  </td><td valign="center" width="26%">
+  
+  ![kqyannn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kqyannn&theme=tokyonight&hide_border=true)
+  
+  </td></tr>
+  
   </table>
 </div>
-
