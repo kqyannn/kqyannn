@@ -4,7 +4,6 @@
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hello+World!;This+is+Kian+%F0%9F%94%A5)](https://git.io/typing-svg)
-<!--   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXcyN21oNWM0NW11ZjNiMTkzYTNjcjAxdWdlZ24xcWh5NXNqcm1haCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" width="400"/> -->
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+PCFET0NUWVBFIHN2ZyAgUFVCTElDICctLy9XM0MvL0RURCBTVkcgMS4xLy9FTicgICdodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQnPjxzdmcgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTYuNjkzIDU2LjY5MyIgaGVpZ2h0PSI1Ni42OTNweCIgaWQ9IkxheWVyXzEiIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDU2LjY5MyA1Ni42OTMiIHdpZHRoPSI1Ni42OTNweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGc+PHBhdGggZD0iTTMwLjA3MSwyNy4xMDF2LTAuMDc3Yy0wLjAxNiwwLjAyNi0wLjAzMywwLjA1Mi0wLjA1LDAuMDc3SDMwLjA3MXoiLz48cGF0aCBkPSJNNDkuMjY1LDQuNjY3SDcuMTQ1Yy0yLjAxNiwwLTMuNjUxLDEuNTk2LTMuNjUxLDMuNTYzdjQyLjYxM2MwLDEuOTY2LDEuNjM1LDMuNTYyLDMuNjUxLDMuNTYyaDQyLjEyICAgYzIuMDE5LDAsMy42NTQtMS41OTcsMy42NTQtMy41NjJWOC4yM0M1Mi45MTksNi4yNjIsNTEuMjgzLDQuNjY3LDQ5LjI2NSw0LjY2N3ogTTE4LjQ3NSw0Ni4zMDRoLTcuNDY1VjIzLjg0NWg3LjQ2NVY0Ni4zMDR6ICAgIE0xNC43NDMsMjAuNzc3aC0wLjA1Yy0yLjUwNCwwLTQuMTI0LTEuNzI1LTQuMTI0LTMuODhjMC0yLjIwMywxLjY3LTMuODgsNC4yMjMtMy44OGMyLjU1NCwwLDQuMTI1LDEuNjc3LDQuMTc1LDMuODggICBDMTguOTY3LDE5LjA1MiwxNy4zNDUsMjAuNzc3LDE0Ljc0MywyMC43Nzd6IE00NS4zOTQsNDYuMzA0aC03LjQ2NVYzNC4yODZjMC0zLjAxOC0xLjA4LTUuMDc4LTMuNzgxLTUuMDc4ICAgYy0yLjA2MiwwLTMuMjksMS4zODktMy44MzEsMi43MzFjLTAuMTk3LDAuNDc5LTAuMjQ1LDEuMTQ5LTAuMjQ1LDEuODIxdjEyLjU0M2gtNy40NjVjMCwwLDAuMDk4LTIwLjM1NCwwLTIyLjQ1OWg3LjQ2NXYzLjE3OSAgIGMwLjk5Mi0xLjUzLDIuNzY2LTMuNzA5LDYuNzI5LTMuNzA5YzQuOTExLDAsOC41OTQsMy4yMTEsOC41OTQsMTAuMTFWNDYuMzA0eiIvPjwvZz48L3N2Zz4=&logoColor=white)](https://www.linkedin.com/in/mrgabiana/)
   &nbsp;
@@ -44,7 +43,7 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 ### 🪟 Frameworks :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" **alt="VueJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-original.svg" title="Quasar" **alt="Quasar" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-plain.svg" title="Quasar" **alt="Quasar" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" **alt="NuxtJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>&nbsp;
@@ -68,24 +67,18 @@ I am a Graduate of BS in Computer Science 🌻 from UP Tacloban College.
 ### 📈 My Stats :
 
 <div align="center">
-  
-<table><tr><td valign="center" width="19%">
-
-![kqyannn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-</td><td valign="center" width="25%">
-
-![kqyannn's Stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-</td><td valign="center" width="26%">
-
-![kqyannn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kqyannn&theme=tokyonight&hide_border=true)
-
-</td></tr>
-
-</table>
+  <table>
+    <tr>
+      <td valign="center" width="19%">
+        ![kqyannn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+      </td>
+      <td valign="center" width="25%">
+        ![kqyannn's Stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+      </td>
+      <td valign="center" width="26%">
+        ![kqyannn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kqyannn&theme=tokyonight&hide_border=true)
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!--
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kqyannn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | ![Kian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kqyannn&theme=tokyonight&show_icons=true) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kqyannn&theme=dark&background=000000)](https://git.io/streak-stats) |
-| ------------- | ------------- | ------------- |
